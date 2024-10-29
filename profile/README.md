@@ -1,4 +1,11 @@
-# OpenSocket
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/open-socket/community/refs/heads/main/assets/logo/horizontal/white/open-socket-horizontal-white.png">
+    <img align="center" alt="OpenFeature Logo" src="https://raw.githubusercontent.com/open-socket/community/refs/heads/main/assets/logo/horizontal/white/open-socket-horizontal-white.png" />
+  </picture>
+</p>
+
+<h2 align="center">Welcome to the OpenSocket project 👋</h2>
 
 **OpenSocket** is an open-source initiative aimed at creating a vendor-agnostic, multi-platform API for socket-based real-time communication. Our goal is to empower developers to integrate real-time features with flexibility and simplicity, allowing them to easily switch between socket providers (such as Ably, Socket.IO, and Pusher) without being locked into a single solution.
 
