@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/open-socket/community/refs/heads/main/assets/logo/horizontal/white/open-socket-horizontal-white.png">
-    <img align="center" alt="OpenFeature Logo" src="https://raw.githubusercontent.com/open-socket/community/refs/heads/main/assets/logo/horizontal/white/open-socket-horizontal-white.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/open-socket/community/refs/heads/main/assets/logo/horizontal/black/openfeature-horizontal-black.png">
+    <img align="center" alt="OpenFeature Logo" src="https://raw.githubusercontent.com/open-socket/community/refs/heads/main/assets/logo/horizontal/black/openfeature-horizontal-black.png" />
   </picture>
 </p>
 
