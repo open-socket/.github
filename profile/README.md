@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<h2 align="center">Welcome to the OpenSocket project 👋</h2>
+<h2 align="center">Welcome to the <a href="https://opensocket.dev">OpenSocket</a> project 👋</h2>
 
 **OpenSocket** is an open-source initiative aimed at creating a vendor-agnostic, multi-platform API for socket-based real-time communication. Our goal is to empower developers to integrate real-time features with flexibility and simplicity, allowing them to easily switch between socket providers (such as Ably, Socket.IO, and Pusher) without being locked into a single solution.
 
